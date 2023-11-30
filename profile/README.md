@@ -1,5 +1,4 @@
-# 아주대학교 SW 캡스톤디자인
-## Smart Bicycle Assistant(S-BA)
+# Smart Bicycle Assistant(S-BA)
 
 
 ![image](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web/assets/86648265/439df8da-7b4c-40e5-8ea8-392d80e3cfa6)
