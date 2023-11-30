@@ -58,8 +58,10 @@
 
 
 
-![image](https://github.com/Smart-Bicycle-Assistant/.github/assets/86648265/d6596678-9689-447f-b719-ef1012fe80fe)
+![image](https://github.com/Smart-Bicycle-Assistant/sba_frontend_web/assets/86648265/8f8ec020-de8f-4927-b986-1b4284a2aa8e)
 
+![image](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web/assets/86648265/86bdb3fb-7c42-46cf-8523-1e855d5272a1)
 
+![image](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web/assets/86648265/439df8da-7b4c-40e5-8ea8-392d80e3cfa6)
 
 
