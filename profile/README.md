@@ -2,9 +2,29 @@
 ## Smart Bicycle Assistant(S-BA)
 
 
+![image](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web/assets/86648265/439df8da-7b4c-40e5-8ea8-392d80e3cfa6)
+
 ### 프로젝트 개요
 본 프로젝트는 기존 자전거 어플리케이션들의 장점을 모아 자전거에 특화된 통합 어플리케이션을 제작하고자 하였다. 기존 앱들에서 경로 안내, 주행 기록 관리, 주행 중 지도와 주행 정보 전달 기능을 가져왔으며 기존에 없었던 자전거 유지보수 기록 관리 기능, 후방 차량 감지 기능, 단체 라이딩 추천기능을 추가하였다.
 
+
+<br/>
+
+### 프로젝트 설명
+
+![image](https://github.com/Smart-Bicycle-Assistant/.github/assets/86648265/84c76560-9e42-4ede-a217-21c413a2ef5b)
+
+<br/>
+
+
+### 프로젝트 포스터
+
+![image](https://github.com/Smart-Bicycle-Assistant/sba_frontend_web/assets/86648265/8f8ec020-de8f-4927-b986-1b4284a2aa8e)
+
+<br/>
+
+
+### 팀원 정보
 
  <table align="center">
 <thead>
@@ -58,10 +78,5 @@
 
 
 
-![image](https://github.com/Smart-Bicycle-Assistant/sba_frontend_web/assets/86648265/8f8ec020-de8f-4927-b986-1b4284a2aa8e)
-
-![image](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web/assets/86648265/86bdb3fb-7c42-46cf-8523-1e855d5272a1)
-
-![image](https://github.com/Smart-Bicycle-Assistant/sba-frontend-web/assets/86648265/439df8da-7b4c-40e5-8ea8-392d80e3cfa6)
 
 
