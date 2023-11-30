@@ -1,5 +1,5 @@
 # 아주대학교 SW 캡스톤디자인
-## Smart Biclcye Assistant(S-BA)
+## Smart Bicycle Assistant(S-BA)
 
 
 ### 프로젝트 개요
@@ -38,7 +38,7 @@
 <tr>
 <td style="text-align:left">Team</td>
 <td style="text-align:left">김주영</td>
-<td style="text-align:left">AI Developer</td>
+<td style="text-align:left">AI Developer</td>
 <td style="text-align:left">dudwnrla00@ajou.ac.kr</td>
 <td style="text-align:left"><a href="https://github.com/kimjuyoung00">
 <img src="http://img.shields.io/badge/kimjuyoung00-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
