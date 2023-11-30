@@ -87,8 +87,8 @@
 
 
 ## 🔎 프로젝트 포스터
+![image](https://github.com/Smart-Bicycle-Assistant/.github/assets/86648265/cb9f86ad-3123-46d0-a8ac-09c788926548)
 
-![image](https://github.com/Smart-Bicycle-Assistant/sba_frontend_web/assets/86648265/8f8ec020-de8f-4927-b986-1b4284a2aa8e)
 
 <br/>
 
